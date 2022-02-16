@@ -49,6 +49,7 @@ const inPersonUsers = [
 fs.mkdir(routes.main, {recursive: true}, (err) => {
     if (err) {
         console.log(err);
+
     }
 });
 
