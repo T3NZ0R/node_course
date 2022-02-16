@@ -1,0 +1,21 @@
+NAME: Bogdan
+
+AGE: 25
+
+CITY: Drogobych
+
+
+NAME: Shtarko
+
+AGE: 19
+
+CITY: Sambir
+
+
+NAME: Mykola
+
+AGE: 15
+
+CITY: Truskavets
+
+

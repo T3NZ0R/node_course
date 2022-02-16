@@ -1,0 +1,21 @@
+NAME: Andrii
+
+AGE: 22
+
+CITY: Lviv
+
+
+NAME: Stepan
+
+AGE: 19
+
+CITY: Sambir
+
+
+NAME: Ivan
+
+AGE: 28
+
+CITY: Stryi
+
+
