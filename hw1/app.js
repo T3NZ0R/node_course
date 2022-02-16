@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const os = require('os');
+
+const {swapFunction} = require('./swapFunction');
+
 
 // fs.mkdir(path.join(__dirname, 'main'), {recursive: true}, (err) => {
 //     if (err) {
@@ -74,6 +76,5 @@ const inPersonUsers = [
 //
 // }
 
-const {swapFunction} = require('./swapFunction');
 
 swapFunction(path.join(__dirname, 'main', 'online', 'onlineUsers.txt'), path.join(__dirname, 'main', 'inPerson', 'inPersonUsers.txt'));
