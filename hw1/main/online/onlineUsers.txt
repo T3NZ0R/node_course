@@ -1,21 +1,21 @@
-NAME: Bogdan
+NAME: Andrii
 
-AGE: 25
+AGE: 22
 
-CITY: Drogobych
+CITY: Lviv
 
 
-NAME: Shtarko
+NAME: Stepan
 
 AGE: 19
 
 CITY: Sambir
 
 
-NAME: Mykola
+NAME: Ivan
 
-AGE: 15
+AGE: 28
 
-CITY: Truskavets
+CITY: Stryi
 
 
