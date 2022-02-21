@@ -1,0 +1,24 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T3NZ0R/node_course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T3NZ0R/node_course/issues"
+  },
+  "homepage": "https://github.com/T3NZ0R/node_course#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.2",
+    "hbs": "^4.2.0"
+  },
+  "description": ""
+}
