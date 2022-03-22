@@ -35,10 +35,9 @@
         <div class="userBlock">
             <div>First name: {{ this.firstName}}</div>
             <div>Last name: {{this.lastName}}</div>
-            <div>Age: {{this.age}}</div>
-            <div>City: {{this.city}}</div>
-            <div>Email: {{this.email}}</div>
-            <div>Password: {{this.password}}</div>
+            <form class="form" action="/users/{{this.id}}">
+                <input type="submit" value="info">
+            </form>
         </div>
     {{/each}}
 </div>
